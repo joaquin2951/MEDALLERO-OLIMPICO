@@ -1,0 +1,13 @@
+SetConsoleTextAttribute(GetStdHandle (STD_OUTPUT_HANDLE),7*16 + 0);//TEXTO NEGRO
+
+SetConsoleTextAttribute(GetStdHandle (STD_OUTPUT_HANDLE),7*16 + 9); //TEXTO AZUL
+
+SetConsoleTextAttribute(GetStdHandle (STD_OUTPUT_HANDLE),7*16 + 12); //TEXTO ROJO
+
+
+SetConsoleTextAttribute(GetStdHandle (STD_OUTPUT_HANDLE),7*16 + 8); //TEXTO GRIS
+
+SetConsoleTextAttribute(GetStdHandle (STD_OUTPUT_HANDLE),7*16 + 6); //TEXTO MARRON
+
+SetConsoleTextAttribute(GetStdHandle (STD_OUTPUT_HANDLE),7*16 + 14); //TEXTO ORO
+
