@@ -15,3 +15,6 @@ eficiente de los datos del medallero. </p>
 • Tipos de datos abstractos.  <br>
 • Archivos de textos y directos para el almacenamiento persistente de los datos del 
 medallero. </p>
+
+<h4>PARA PROBAR:</h4>
+<p> Debido a que los legajos se calculan con ciertas condiciones matemáticas, para ver el resto del programa se puede sacar el modulo LOGIN</p>
